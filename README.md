@@ -1,4 +1,4 @@
-# Repsitório para Monitoria de FUP
+# Repositório para Monitoria de FUP
 
 ## Esqueleto básico de um código em C
 ```c

@@ -1,0 +1,17 @@
+>>>>>>>> INSERT
+5
+======== EXPECT
+25
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+10
+======== EXPECT
+50
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+0
+======== EXPECT
+0
+<<<<<<<< FINISH

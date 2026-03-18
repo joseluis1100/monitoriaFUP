@@ -1,0 +1,48 @@
+# Questão 29
+
+Leia quatro notas, calcule a média aritmética e imprima o resultado.
+
+<details>
+  <summary>Resposta</summary>
+
+```c
+#include <stdio.h>
+
+int main() {
+    float nota1, nota2, nota3, nota4;
+    scanf("%f %f %f %f", &nota1, &nota2, &nota3, &nota4);
+
+    float media = (nota1 + nota2 + nota3 + nota4) / 4.0;
+    
+    // O %.Nf , (sendo N um número qualquer) limita a quantidade de casas decimais da variável
+    // Ex: %.2f limita a duas casas após a vírgula.
+    printf("%.2f\n", media);
+    return 0;
+}
+```
+
+</details>
+
+## Casos de Teste
+
+```
+>>>>>>>> INSERT
+7.0 8.0 9.0 10.0
+======== EXPECT
+8.50
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+5.5 6.5 7.5 8.5
+======== EXPECT
+7.00
+<<<<<<<< FINISH
+
+>>>>>>>> INSERT
+0 0 0 0
+======== EXPECT
+0.00
+<<<<<<<< FINISH
+```
+
+[Código](./C/draft.c)

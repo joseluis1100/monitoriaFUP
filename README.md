@@ -10,15 +10,15 @@ Neste modelo, a teoria e a sintaxe da linguagem não ficam amontoadas em um úni
 
 > **💡 Manual de Uso:** Navegue pelos diretórios abaixo. Ao abrir o `README.md` de cada pasta, você encontrará primeiro a explicação teórica da matéria (*Tutorial*) e logo abaixo a lista de enunciados práticos correspondentes.
 
-- [📂 **PDF 1** - Variáveis, Matemática e Expressões](./PDF%201%20-%20Variaveis%20e%20Expressoes/)
-- [📂 **PDF 2** - Comandos Condicionais e Tomada de Decisão](./PDF%202%20-%20Comandos%20Condicionais/)
-- [📂 **PDF 3** - Comandos de Repetição e Iterações](./PDF%203%20-%20Comandos%20de%20Repeticao/)
-- [📂 **PDF 4** - Estruturas Homogêneas Unidimensionais e Multidimensionais (Vetores e Matrizes)](./PDF%204%20-%20Vetores%20e%20Matrizes/)
-- [📂 **PDF 5** - Caracteres Isolados e Cadeias de Textos (Strings)](./PDF%205%20-%20Strings/)
-- [📂 **PDF 6** - Agrupamento e Estruturas Heterogêneas (Structs)](./PDF%206%20-%20Structs/)
-- [📂 **PDF 7** - Modularização, Escopo e Funções](./PDF%207%20-%20Funcoes)
-- [📂 **PDF 8** - Complexidade e Recursividade](./PDF%208%20-%20Recursao)
-- [📂 **PDF 9** - Referências na Memória e Ponteiros](./PDF%209%20-%20Ponteiros)
+- [📂 **PDF 01** - Variáveis, Matemática e Expressões](./PDF%2001%20-%20Variaveis%20e%20Expressoes/)
+- [📂 **PDF 02** - Comandos Condicionais e Tomada de Decisão](./PDF%2002%20-%20Comandos%20Condicionais/)
+- [📂 **PDF 03** - Comandos de Repetição e Iterações](./PDF%2003%20-%20Comandos%20de%20Repeticao/)
+- [📂 **PDF 04** - Estruturas Homogêneas Unidimensionais e Multidimensionais (Vetores e Matrizes)](./PDF%2004%20-%20Vetores%20e%20Matrizes/)
+- [📂 **PDF 05** - Caracteres Isolados e Cadeias de Textos (Strings)](./PDF%2005%20-%20Strings/)
+- [📂 **PDF 06** - Agrupamento e Estruturas Heterogêneas (Structs)](./PDF%2006%20-%20Structs/)
+- [📂 **PDF 07** - Modularização, Escopo e Funções](./PDF%2007%20-%20Funcoes)
+- [📂 **PDF 08** - Complexidade e Recursividade](./PDF%2008%20-%20Recursao)
+- [📂 **PDF 09** - Referências na Memória e Ponteiros](./PDF%2009%20-%20Ponteiros)
 - [📂 **PDF 10** - Alocação Dinâmica de Memória (RAM)](./PDF%2010%20-%20Alocacao%20Dinamica)
 - [📂 **PDF 11** - Banco de Dados Texto e Binários (Arquivos)](./PDF%2011%20-%20Arquivos)
 

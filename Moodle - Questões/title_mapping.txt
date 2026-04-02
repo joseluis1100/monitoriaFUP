@@ -1,0 +1,23 @@
+-- Comandos Condicionais\README.md --
+Função: milionario -> milionario
+Soma de três inteiros -> soma_de_tres_inteiros
+Função: crescente -> crescente
+Média de dois inteiros -> media_de_dois_inteiros
+Calculando quanto sobrou -> calculando_quanto_sobrou
+Batimento cardíaco -> batimento_cardiaco
+Imprimindo a tabuada - L2 -> imprimindo_a_tabuada
+Todos iguais? -> todos_iguais
+Valor absoluto -> valor_absoluto
+Idade para natação -> idade_para_natacao
+Calculando aumento -> calculando_aumento
+Passeio escolar -> passeio_escolar
+Zerinho ou Um -> zerinho_ou_um
+É positivo -> e_positivo
+A idade do filho mais velho - OBI 2019 - F1PJ -> a_idade_do_filho_mais_velho
+-- de Repeticao\README.md --
+@loop_ii: Imprimindo em linha - L1 -> imprimindo_em_linha
+Loop decrescente -> loop_decrescente
+Bom diaa! -> bom_diaa
+Contando Ovelhas -> contando_ovelhas
+bacterias -> bacterias
+Passeio escolar -> passeio_escolar

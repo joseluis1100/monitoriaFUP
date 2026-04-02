@@ -1,0 +1,26 @@
+# Comandos Condicionais
+
+---
+
+# Questões
+- [ ] @a_idade_do_filho_mais_velho [Q01 - A idade do filho mais velho](./a_idade_do_filho_mais_velho)
+- [ ] @aposenta [Q02 - Aposenta](./aposenta)
+- [ ] @batimento_cardiaco [Q03 - Batimento cardiaco](./batimento_cardiaco)
+- [ ] @bissexto [Q04 - Bissexto](./bissexto)
+- [ ] @calculando_aumento [Q05 - Calculando aumento](./calculando_aumento)
+- [ ] @calculando_quanto_sobrou [Q06 - Calculando quanto sobrou](./calculando_quanto_sobrou)
+- [ ] @crescente [Q07 - Crescente](./crescente)
+- [ ] @e_positivo [Q08 - E positivo](./e_positivo)
+- [ ] @idade_para_natacao [Q09 - Idade para natacao](./idade_para_natacao)
+- [ ] @imprimindo_a_tabuada [Q10 - Imprimindo a tabuada](./imprimindo_a_tabuada)
+- [ ] @maior [Q11 - Maior](./maior)
+- [ ] @media_de_dois_inteiros [Q12 - Media de dois inteiros](./media_de_dois_inteiros)
+- [ ] @milionario [Q13 - Milionario](./milionario)
+- [ ] @nadador [Q14 - Nadador](./nadador)
+- [ ] @ordena [Q15 - Ordena](./ordena)
+- [ ] @paridade [Q16 - Paridade](./paridade)
+- [ ] @passeio_escolar [Q17 - Passeio escolar](./passeio_escolar)
+- [ ] @soma_de_tres_inteiros [Q18 - Soma de tres inteiros](./soma_de_tres_inteiros)
+- [ ] @todos_iguais [Q19 - Todos iguais](./todos_iguais)
+- [ ] @valor_absoluto [Q20 - Valor absoluto](./valor_absoluto)
+- [ ] @zerinho_ou_um [Q21 - Zerinho ou um](./zerinho_ou_um)

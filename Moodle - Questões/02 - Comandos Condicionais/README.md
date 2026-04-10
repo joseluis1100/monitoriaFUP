@@ -24,3 +24,8 @@
 - [ ] @todos_iguais [Q19 - Todos iguais](./todos_iguais)
 - [ ] @valor_absoluto [Q20 - Valor absoluto](./valor_absoluto)
 - [ ] @zerinho_ou_um [Q21 - Zerinho ou um](./zerinho_ou_um)
+- [ ] @entrando_na_porta [Q22 - Entrando na porta](./entrando_na_porta)
+- [ ] @final [Q23 - Final](./final)
+- [ ] @goiabas [Q24 - Goiabas](./goiabas)
+- [ ] @gotas_de_chuva [Q25 - Gotas de chuva](./gotas_de_chuva)
+- [ ] @heranca_entre_irmas [Q26 - Heranca entre irmas](./heranca_entre_irmas)
